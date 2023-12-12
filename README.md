@@ -1,1 +1,2 @@
-# Amazon-clone-with-Css- this clone is made of tech language html & css
+# Amazon-clone-with-Css- 
+This clone is made of language html & css
